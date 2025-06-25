@@ -40,6 +40,4 @@ Created on: May 11, 2025
 - Adjust ADCON1 settings if using a different PIC model or analog pin
 - The degree symbol `°` is represented by ASCII code `223` in most LCDs
 
-## 🖼️ Output
-Displays real-time temperature like:
 
